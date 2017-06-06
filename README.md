@@ -18,7 +18,7 @@ Note it only works with **React Toolbox 2.0 beta**. The output path shown in the
 
 [React Toolbox 2.0](https://github.com/react-toolbox/react-toolbox/releases) styles have been rewritten using [postcss](https://github.com/postcss/postcss). This gives us more flexibility and makes the library more powerful allowing things like live transforming in the browser. We still use [CSS Modules](https://github.com/css-modules/css-modules) thought, and some people find difficult to integrate the library in their current stack, specially when [Webpack](https://webpack.github.io/) is not included or accessible.
 
-Sometimes it's annoying to configure react-toolbox to import CSS so this package will help you making easier to try out the library and providing an easy integration with tools like [react-create-app](https://github.com/facebookincubator/create-react-app). It will help you extracting the CSS modules into static files you can import in your application, making react-toolbox very easy to adopt.
+Sometimes it's annoying to configure react-toolbox to import CSS so this package will help you making easier to try out the library and providing an easy integration with tools like [Create React App](https://github.com/facebookincubator/create-react-app). It will help you extracting the CSS modules into static files you can import in your application, making react-toolbox very easy to adopt.
 
 ## Usage
 
